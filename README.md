@@ -37,6 +37,11 @@ The blog website allows users to:
 
 ## Contribution
 
+Demo:
+
+![BlogWebsite](https://github.com/tinabi8/blog_website/blob/master/BlogWebsite.jpg)
+
+
 If you find any issues or have any improvement suggestions, feel free to open an issue or pull request.
 
 ## License
